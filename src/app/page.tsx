@@ -3,6 +3,7 @@
 import { useState } from "react";
 import DominoList from "@/components/DominoList";
 import DominoControls from "@/components/DominoControl";
+import React from "react";
 
 type Domino = [number, number];
 
